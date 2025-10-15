@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "chair_style_checker"
+version = "0.0.1"
+description = "library for checking chair style"
+authors = [
+    { name = "Xiaochuan Zou", email = "zouxiaochuan@163.com" }
+]
+license = { text = "MIT" }
+dependencies = [
+    "lgbm",
+]
+requires-python = ">=3.6"
+
+[tool.setuptools.packages.find]
+where = ["."]
+exclude = ["tests"]
+
+[tool.setuptools.package-data]
+where = ["."]

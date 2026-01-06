@@ -1,0 +1,470 @@
+[
+    {
+        "product_type": {
+            "start_index": 7,
+            "end_index": 11,
+            "name": [
+                "2034",
+                "2071",
+                "2005",
+                "2010",
+                "3014",
+                "2054",
+                "2042",
+                "2046",
+                "2075",
+                "2079",
+                "2025",
+                "3019",
+                "2055"
+            ]
+        },
+        "way_point": "backend_camera_top",
+        "styles": [
+            {
+                "target": "touzhenshitiao",
+                "style": "yinse"
+            },
+            {
+                "target": "eze",
+                "style": "yinse"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "start_index": 7,
+            "end_index": 11,
+            "name": [
+                "2035",
+                "2083",
+                "2006",
+                "2011",
+                "3015",
+                "2049",
+                "2043",
+                "2047",
+                "2076",
+                "2080",
+                "2026",
+                "3020",
+                "2050",
+                "2051",
+                "2069",
+                "2081",
+                "2007",
+                "3011",
+                "2048",
+                "2052",
+                "2040",
+                "2073",
+                "2077",
+                "2082",
+                "2017",
+                "2022",
+                "3016",
+                "2053"
+            ]
+        },
+        "way_point": "backend_camera_top",
+        "styles": [
+            {
+                "target": "touzhenshitiao",
+                "style": "shenhailan"
+            },
+            {
+                "target": "eze",
+                "style": "shenhailan"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "start_index": 7,
+            "end_index": 11,
+            "name": [
+                "2034",
+                "2071",
+                "2005",
+                "2010",
+                "3014",
+                "2054"
+            ]
+        },
+        "way_point": "p_029",
+        "styles": [
+            {
+                "target": "kaiguan",
+                "style": "jiaotangzongyin"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "start_index": 7,
+            "end_index": 11,
+            "name": [
+                "2051",
+                "2069",
+                "2081",
+                "2007",
+                "3011",
+                "2048",
+                "2035",
+                "2083",
+                "2006",
+                "2011",
+                "3015",
+                "2049"
+            ]
+        },
+        "way_point": "p_029",
+        "styles": [
+            {
+                "target": "kaiguan",
+                "style": "shenhailan"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "start_index": 7,
+            "end_index": 11,
+            "name": [
+                "2042",
+                "2046",
+                "2075",
+                "2079",
+                "2025",
+                "3019",
+                "2055"
+            ]
+        },
+        "way_point": "p_027",
+        "styles": [
+            {
+                "target": "kaiguan",
+                "style": "jiaotangzongyin"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "start_index": 7,
+            "end_index": 11,
+            "name": [
+                "2052",
+                "2040",
+                "2073",
+                "2077",
+                "2082",
+                "2017",
+                "2022",
+                "3016",
+                "2053"
+            ]
+        },
+        "way_point": "p_027",
+        "styles": [
+            {
+                "target": "kaiguan",
+                "style": "shenhailan"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "start_index": 7,
+            "end_index": 11,
+            "name": [
+                "2034",
+                "2071",
+                "2005",
+                "2010",
+                "3014",
+                "2054"
+            ]
+        },
+        "way_point": "p_027",
+        "styles": [
+            {
+                "target": "pangceban",
+                "style": "jiaotangzong"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "start_index": 7,
+            "end_index": 11,
+            "name": [
+                "2042",
+                "2046",
+                "2075",
+                "2079",
+                "2025",
+                "3019",
+                "2055"
+            ]
+        },
+        "way_point": "p_025",
+        "styles": [
+            {
+                "target": "pangceban",
+                "style": "jiaotangzong"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "start_index": 7,
+            "end_index": 11,
+            "name": [
+                "2051",
+                "2069",
+                "2081",
+                "2007",
+                "3011",
+                "2048",
+                "2035",
+                "2083",
+                "2006",
+                "2011",
+                "3015",
+                "2049"
+            ]
+        },
+        "way_point": "p_027",
+        "styles": [
+            {
+                "target": "pangceban",
+                "style": "shenhailan"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "start_index": 7,
+            "end_index": 11,
+            "name": [
+                "2052",
+                "2040",
+                "2073",
+                "2077",
+                "2082",
+                "2017",
+                "2022",
+                "3016",
+                "2053",
+                "2043",
+                "2047",
+                "2076",
+                "2080",
+                "2026",
+                "3020",
+                "2050"
+            ]
+        },
+        "way_point": "p_025",
+        "styles": [
+            {
+                "target": "pangceban",
+                "style": "shenhailan"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "start_index": 7,
+            "end_index": 11,
+            "name": [
+                "2034",
+                "2071",
+                "2005",
+                "2010",
+                "3014",
+                "2054"
+            ]
+        },
+        "way_point": "p_058",
+        "styles": [
+            {
+                "target": "buckle",
+                "style": "jiaotangzong"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "start_index": 7,
+            "end_index": 11,
+            "name": [
+                "2042",
+                "2046",
+                "2075",
+                "2079",
+                "2025",
+                "3019",
+                "2055"
+            ]
+        },
+        "way_point": "p_056",
+        "styles": [
+            {
+                "target": "buckle",
+                "style": "jiaotangzong"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "start_index": 7,
+            "end_index": 11,
+            "name": [
+                "2051",
+                "3011",
+                "2035",
+                "2083",
+                "2006",
+                "2011",
+                "3015",
+                "2049"
+            ]
+        },
+        "way_point": "p_058",
+        "styles": [
+            {
+                "target": "buckle",
+                "style": "shenhailan"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "start_index": 7,
+            "end_index": 11,
+            "name": [
+                "2052",
+                "2040",
+                "2082",
+                "2017",
+                "3016",
+                "2043",
+                "2047",
+                "2076",
+                "2080",
+                "2026",
+                "3020",
+                "2050"
+            ]
+        },
+        "way_point": "p_056",
+        "styles": [
+            {
+                "target": "buckle",
+                "style": "shenhailan"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "start_index": 7,
+            "end_index": 11,
+            "name": [
+                "2042",
+                "2046",
+                "2075",
+                "2079",
+                "2025",
+                "3019",
+                "2055"
+            ]
+        },
+        "way_point": "p_046",
+        "styles": [
+            {
+                "target": "xiaozuoban",
+                "style": "jiaotangzongyin"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "start_index": 7,
+            "end_index": 11,
+            "name": [
+                "2052",
+                "2040",
+                "2073",
+                "2077",
+                "2082",
+                "2017",
+                "2022",
+                "3016",
+                "2053",
+                "2043",
+                "2047",
+                "2076",
+                "2080",
+                "2026",
+                "3020",
+                "2050"
+            ]
+        },
+        "way_point": "p_046",
+        "styles": [
+            {
+                "target": "xiaozuoban",
+                "style": "shenhailan"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "start_index": 7,
+            "end_index": 11,
+            "name": [
+                "2034",
+                "2071",
+                "2005",
+                "2010",
+                "3014",
+                "2054"
+            ]
+        },
+        "way_point": "p_016",
+        "styles": [
+            {
+                "target": "fushou",
+                "style": "jiaotangzong"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "start_index": 7,
+            "end_index": 11,
+            "name": [
+                "2051",
+                "2069",
+                "2081",
+                "2007",
+                "3011",
+                "2048",
+                "2035",
+                "2083",
+                "2006",
+                "2011",
+                "3015",
+                "2049"
+            ]
+        },
+        "way_point": "p_016",
+        "styles": [
+            {
+                "target": "fushou",
+                "style": "shenhailan"
+            }
+        ]
+    }
+]

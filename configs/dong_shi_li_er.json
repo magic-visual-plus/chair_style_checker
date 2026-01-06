@@ -1,0 +1,333 @@
+[
+    {
+        "product_type": {
+            "name": [
+                "DLA80005R71",
+                "DLA80006R71",
+                "DLA80026R71"
+            ]
+        },
+        "way_point": "e4e321008d0a47ab9c8a9890b316b7dd",
+        "styles": [
+            {
+                "target": "磁吸门",
+                "style": "橙色"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "name": [
+                "DLA80005P74",
+                "DLA80006P74",
+                "DLA80026P74"
+            ]
+        },
+        "way_point": "e4e321008d0a47ab9c8a9890b316b7dd",
+        "styles": [
+            {
+                "target": "磁吸门",
+                "style": "红色"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "name": [
+                "DLA80005S37",
+                "DLA80006S37",
+                "DLA80026S37"
+            ]
+        },
+        "way_point": "e4e321008d0a47ab9c8a9890b316b7dd",
+        "styles": [
+            {
+                "target": "磁吸门",
+                "style": "杏色"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "name": [
+                "DLA8000501N",
+                "DLA8000601N",
+                "DLA8002601N"
+            ]
+        },
+        "way_point": "e4e321008d0a47ab9c8a9890b316b7dd",
+        "styles": [
+            {
+                "target": "磁吸门",
+                "style": "棕色"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "name": [
+                "DLA80005R71",
+                "DLA80006R71",
+                "DLA80026R71"
+            ]
+        },
+        "way_point": "434c085c6cb54ba3bcf763fb12dff15e",
+        "styles": [
+            {
+                "target": "内护板堵头",
+                "style": "橙色"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "name": [
+                "DLA80005P74",
+                "DLA80006P74",
+                "DLA80026P74"
+            ]
+        },
+        "way_point": "434c085c6cb54ba3bcf763fb12dff15e",
+        "styles": [
+            {
+                "target": "内护板堵头",
+                "style": "红色"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "name": [
+                "DLA80005S37",
+                "DLA80006S37",
+                "DLA80026S37"
+            ]
+        },
+        "way_point": "434c085c6cb54ba3bcf763fb12dff15e",
+        "styles": [
+            {
+                "target": "内护板堵头",
+                "style": "杏色"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "name": [
+                "DLA8000501N",
+                "DLA8000601N",
+                "DLA8002601N"
+            ]
+        },
+        "way_point": "434c085c6cb54ba3bcf763fb12dff15e",
+        "styles": [
+            {
+                "target": "内护板堵头",
+                "style": "棕色"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "name": [
+                "DLA80005R71",
+                "DLA80006R71",
+                "DLA80026R71",
+                "DLA80005P74",
+                "DLA80006P74",
+                "DLA80026P74"
+            ]
+        },
+        "way_point": "434c085c6cb54ba3bcf763fb12dff16e",
+        "styles": [
+            {
+                "target": "脚饰盖",
+                "style": "黑色"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "name": [
+                "DLA80005S37",
+                "DLA80006S37",
+                "DLA80026S37",
+                "DLA8000501N",
+                "DLA8000601N",
+                "DLA8002601N"
+            ]
+        },
+        "way_point": "434c085c6cb54ba3bcf763fb12dff16e",
+        "styles": [
+            {
+                "target": "脚饰盖",
+                "style": "棕色"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "name": [
+                "DLA80005R71",
+                "DLA80006R71",
+                "DLA80026R71",
+                "DLA80005P74",
+                "DLA80006P74",
+                "DLA80026P74"
+            ]
+        },
+        "way_point": "93bcc3701a8b4e06b2517856ea97afbb",
+        "styles": [
+            {
+                "target": "安全锁扣",
+                "style": "黑色"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "name": [
+                "DLA80005S37",
+                "DLA80006S37",
+                "DLA80026S37"
+            ]
+        },
+        "way_point": "93bcc3701a8b4e06b2517856ea97afbb",
+        "styles": [
+            {
+                "target": "安全锁扣",
+                "style": "杏色"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "name": [
+                "DLA8000501N",
+                "DLA8000601N",
+                "DLA8002601N"
+            ]
+        },
+        "way_point": "93bcc3701a8b4e06b2517856ea97afbb",
+        "styles": [
+            {
+                "target": "安全锁扣",
+                "style": "棕色"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "name": [
+                "DLA80005R71",
+                "DLA80006R71",
+                "DLA80026R71",
+                "DLA80005P74",
+                "DLA80006P74",
+                "DLA80026P74"
+            ]
+        },
+        "way_point": "93bcc3701a8b4e06b2517856ea97afbb",
+        "styles": [
+            {
+                "target": "滑轨",
+                "style": "黑色"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "name": [
+                "DLA80005S37",
+                "DLA80006S37",
+                "DLA80026S37",
+                "DLA8000501N",
+                "DLA8000601N",
+                "DLA8002601N"
+            ]
+        },
+        "way_point": "93bcc3701a8b4e06b2517856ea97afbb",
+        "styles": [
+            {
+                "target": "滑轨",
+                "style": "棕色"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "name": [
+                "DLA80005R71",
+                "DLA80006R71",
+                "DLA80026R71",
+                "DLA80005P74",
+                "DLA80006P74",
+                "DLA80026P74"
+            ]
+        },
+        "way_point": "0440fbba62cb41b2bed285c0bb9d9100",
+        "styles": [
+            {
+                "target": "大盖板",
+                "style": "黑色"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "name": [
+                "DLA80005S37",
+                "DLA80006S37",
+                "DLA80026S37",
+                "DLA8000501N",
+                "DLA8000601N",
+                "DLA8002601N"
+            ]
+        },
+        "way_point": "0440fbba62cb41b2bed285c0bb9d9100",
+        "styles": [
+            {
+                "target": "大盖板",
+                "style": "棕色"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "name": [
+                "DLA80005R71",
+                "DLA80006R71",
+                "DLA80026R71",
+                "DLA80005P74",
+                "DLA80006P74",
+                "DLA80026P74"
+            ]
+        },
+        "way_point": "0440fbba62cb41b2bed285c0bb9d9101",
+        "styles": [
+            {
+                "target": "预收紧器",
+                "style": "黑色"
+            }
+        ]
+    },
+    {
+        "product_type": {
+            "name": [
+                "DLA80005S37",
+                "DLA80006S37",
+                "DLA80026S37",
+                "DLA8000501N",
+                "DLA8000601N",
+                "DLA8002601N"
+            ]
+        },
+        "way_point": "0440fbba62cb41b2bed285c0bb9d9101",
+        "styles": [
+            {
+                "target": "预收紧器",
+                "style": "棕色"
+            }
+        ]
+    }
+]
